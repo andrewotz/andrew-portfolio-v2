@@ -20,10 +20,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Technology Consultant</h3>
-            <h4 className="vertical-timeline-element-subtitle">Dallas, TX</h4>
+            <h3 className="vertical-timeline-element-title">Selected Mentee, University Presidential Leadership Program</h3>
+            <h4 className="vertical-timeline-element-subtitle">Texarkana, TX</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+            Selected by University President Dr. Ross Alexander for an exclusive leadership development program. Collaborated with senior executives and leaders to sharpen strategic decision-making, communication, and leadership skills.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -32,10 +32,10 @@ function Timeline() {
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Full Stack Engineer</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Undergraduate Research Assistant - Physics & Computational Modeling</h3>
+            <h4 className="vertical-timeline-element-subtitle">Texarkana, TX</h4>
             <p>
-              Frontend Development, Backend Development, User Experience, Team Leading
+            Worked with a physics professor to model and simulate 3D electric fields, potentials, and Faraday lines using MATLAB. Developed interactive visualizations applying vector calculus and computational methods to enhance understanding of electrostatics.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
