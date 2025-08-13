@@ -16,38 +16,38 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="2022 - present"
+            date="2024 - 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Selected Mentee, University Presidential Leadership Program</h3>
             <h4 className="vertical-timeline-element-subtitle">Texarkana, TX</h4>
             <p>
-            Selected by University President Dr. Ross Alexander for an exclusive leadership development program. Collaborated with senior executives and leaders to sharpen strategic decision-making, communication, and leadership skills.
+              Selected by University President Dr. Ross Alexander for an exclusive leadership development program. Collaborated with senior executives and leaders to sharpen strategic decision-making, communication, and leadership skills.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2022"
+            date="2024 - 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Undergraduate Research Assistant - Physics & Computational Modeling</h3>
             <h4 className="vertical-timeline-element-subtitle">Texarkana, TX</h4>
             <p>
-            Worked with a physics professor to model and simulate 3D electric fields, potentials, and Faraday lines using MATLAB. Developed interactive visualizations applying vector calculus and computational methods to enhance understanding of electrostatics.
+              Worked with a physics professor to model and simulate 3D electric fields, potentials, and Faraday lines using MATLAB. Developed interactive visualizations applying vector calculus and computational methods to enhance understanding of electrostatics.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2021"
+            date="2021 - Current"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Staff Engineer Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Laie, HI</h4>
+            <h3 className="vertical-timeline-element-title">Tennis Teaching Professional | Baton Rouge Country Club</h3>
+            <h4 className="vertical-timeline-element-subtitle">Various Locations</h4>
             <p>
-              Full-stack Development, API Development, User Experience
+              Coached players of varying skill levels, developing strong communication, leadership, and problem-solving skills in a fast-paced environment.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
