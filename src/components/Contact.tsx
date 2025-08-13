@@ -37,7 +37,7 @@ function Contact() {
        };
 
        console.log(templateParams);
-       emailjs.send('andrew.otz7@gmail.com', 'template_vwzquoe', templateParams, 'd_8K_c6d-aQEUdvSE').then(
+       emailjs.send('andrew.otz7@gmail.com', 'template_vwzquoe', templateParams, 'e3cuLYK6msn4RnZe2thme').then(
          (response) => {
            console.log('SUCCESS!', response.status, response.text);
          },
