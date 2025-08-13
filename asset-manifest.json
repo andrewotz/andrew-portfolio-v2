@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/andrew-portfolio-v2/static/css/main.2a37b0d4.css",
-    "main.js": "/andrew-portfolio-v2/static/js/main.91417bb4.js",
-    "static/js/453.b05d8aa5.chunk.js": "/andrew-portfolio-v2/static/js/453.b05d8aa5.chunk.js",
-    "static/media/electricpotential.png": "/andrew-portfolio-v2/static/media/electricpotential.d0cb262830be937f08d0.png",
-    "static/media/CERNcollision.png": "/andrew-portfolio-v2/static/media/CERNcollision.4f4b4a7f75f119c06ff7.png",
-    "static/media/facetune01.png": "/andrew-portfolio-v2/static/media/facetune01.0b064e696aad8a62036f.png",
-    "static/media/EMPpulse.png": "/andrew-portfolio-v2/static/media/EMPpulse.341e9b6ea7b290ec2265.png",
-    "static/media/bg-light.png": "/andrew-portfolio-v2/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/bg-dark.png": "/andrew-portfolio-v2/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/quantumoscillator.png": "/andrew-portfolio-v2/static/media/quantumoscillator.b77cecfc2e8b1c04c21e.png",
-    "static/media/coinflip.png": "/andrew-portfolio-v2/static/media/coinflip.ef5f71d48bb8978c3c18.png",
-    "index.html": "/andrew-portfolio-v2/index.html",
-    "main.2a37b0d4.css.map": "/andrew-portfolio-v2/static/css/main.2a37b0d4.css.map",
-    "main.91417bb4.js.map": "/andrew-portfolio-v2/static/js/main.91417bb4.js.map",
-    "453.b05d8aa5.chunk.js.map": "/andrew-portfolio-v2/static/js/453.b05d8aa5.chunk.js.map"
+    "main.css": "/static/css/main.8765b8c3.css",
+    "main.js": "/static/js/main.9d829137.js",
+    "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
+    "static/media/electricpotential.png": "/static/media/electricpotential.d0cb262830be937f08d0.png",
+    "static/media/CERNcollision.png": "/static/media/CERNcollision.4f4b4a7f75f119c06ff7.png",
+    "static/media/facetune01.png": "/static/media/facetune01.0b064e696aad8a62036f.png",
+    "static/media/EMPpulse.png": "/static/media/EMPpulse.341e9b6ea7b290ec2265.png",
+    "static/media/bg-light.png": "/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/bg-dark.png": "/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/quantumoscillator.png": "/static/media/quantumoscillator.b77cecfc2e8b1c04c21e.png",
+    "static/media/coinflip.png": "/static/media/coinflip.ef5f71d48bb8978c3c18.png",
+    "index.html": "/index.html",
+    "main.8765b8c3.css.map": "/static/css/main.8765b8c3.css.map",
+    "main.9d829137.js.map": "/static/js/main.9d829137.js.map",
+    "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a37b0d4.css",
-    "static/js/main.91417bb4.js"
+    "static/css/main.8765b8c3.css",
+    "static/js/main.9d829137.js"
   ]
 }
