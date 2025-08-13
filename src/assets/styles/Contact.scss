@@ -23,6 +23,24 @@
   }
 }
 
+input,
+  textarea {
+    color: #050f0b; // text color
+    background-color: white; // background for clarity
+    border: 1px solid #ccc; // optional border
+    padding: 8px;
+    font-family: 'DomaineDispNar-Medium', sans-serif;
+    font-size: 1rem;
+    width: 100%;
+    box-sizing: border-box; // ensures padding doesn’t break layout
+  }
+
+  input:focus,
+  textarea:focus {
+    outline: none;
+    border-color: #5000ca; // highlight when typing
+  }
+
 label {
   font-size: 1.2rem;
   font-family: 'DomaineDispNar-Medium', sans-serif;
