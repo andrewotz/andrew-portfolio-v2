@@ -52,14 +52,14 @@ function Timeline() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2020 - 2020"
+            date="2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
-            <h3 className="vertical-timeline-element-title">Data Analyst Intern</h3>
-            <h4 className="vertical-timeline-element-subtitle">Tokyo, Japan</h4>
+            <h3 className="vertical-timeline-element-title">CERN Research Facility Visit</h3>
+            <h4 className="vertical-timeline-element-subtitle">Geneva, Switzerland</h4>
             <p>
-              Automation, Data Governance, Statistical Analysis
+              Explored CERN, the worlds leading physics research lab, studying its advanced IT infrastructure. Gained insights into distributed computing, large-scale data storage, and real-time analysis supporting cutting-edge particle physics research.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
