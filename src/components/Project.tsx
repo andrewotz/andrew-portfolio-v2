@@ -17,29 +17,31 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
+                <a href="https://github.com/andrewotz/CERN-Particle-Simulator" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/andrewotz/CERN-Particle-Simulator" target="_blank" rel="noreferrer"><h2>CERN Particle Simulator</h2></a>
+                <p>A particle collision simulator inspired by CERN experiments, showing particle trajectories and collision effects in real time.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://github.com/andrewotz/Interactive-2D-Electric-Field-Potential-Simulator" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/andrewotz/Interactive-2D-Electric-Field-Potential-Simulator" target="_blank" rel="noreferrer"><h2>Interactive 2D Electric Field Simulation</h2></a>
+                <p>An interactive 2D simulator that visualizes electric potential and field lines in real time, letting users adjust charges to explore electrostatic concepts.
+                </p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <a href="https://github.com/andrewotz/Interactive-Quantum-Harmonic-Oscillator-Visualization" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/andrewotz/Interactive-Quantum-Harmonic-Oscillator-Visualization" target="_blank" rel="noreferrer"><h2>Interactive Quantum Oscillator Simulation</h2></a>
+                <p>A real-time simulation of a quantum harmonic oscillator that lets users explore wavefunctions, probabilities, and energy states interactively.
+                </p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Datum: Integrated Learning Platform</h2></a>
-                <p>This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.</p>
+                <a href="https://github.com/andrewotz/Cryptography-RNG-Comparison-Demo" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/andrewotz/Cryptography-RNG-Comparison-Demo" target="_blank" rel="noreferrer"><h2>Cryptography RNG Comparison Demo</h2></a>
+                <p>An interactive demo comparing the unpredictability and randomness quality of quantum versus classical random number generators using simulated coin flips.</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
-                <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
+                <a href="https://github.com/andrewotz/EMP-Pulse-Circuit-Response-Simulator" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/andrewotz/EMP-Pulse-Circuit-Response-Simulator" target="_blank" rel="noreferrer"><h2>EMP Pulse Response Simulation</h2></a>
+                <p>A simulation visualizing the effects of an electromagnetic pulse (EMP) on digital systems, demonstrating how EMP disrupts electronic circuits and signals.</p>
             </div>
             <div className="project">
                 <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
