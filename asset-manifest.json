@@ -1,27 +1,23 @@
 {
   "files": {
     "main.css": "/andrew-portfolio-v2/static/css/main.2a37b0d4.css",
-    "main.js": "/andrew-portfolio-v2/static/js/main.63dc3614.js",
+    "main.js": "/andrew-portfolio-v2/static/js/main.67ba431f.js",
     "static/js/453.b05d8aa5.chunk.js": "/andrew-portfolio-v2/static/js/453.b05d8aa5.chunk.js",
-    "static/media/mock09.png": "/andrew-portfolio-v2/static/media/mock09.e18677ccfc932e52d754.png",
-    "static/media/mock08.png": "/andrew-portfolio-v2/static/media/mock08.13f46873fdbd382f4b76.png",
+    "static/media/electricpotential.png": "/andrew-portfolio-v2/static/media/electricpotential.d0cb262830be937f08d0.png",
     "static/media/CERNcollision.png": "/andrew-portfolio-v2/static/media/CERNcollision.4f4b4a7f75f119c06ff7.png",
     "static/media/facetune01.png": "/andrew-portfolio-v2/static/media/facetune01.0b064e696aad8a62036f.png",
-    "static/media/mock04.png": "/andrew-portfolio-v2/static/media/mock04.f7b5679efade992a078c.png",
+    "static/media/EMPpulse.png": "/andrew-portfolio-v2/static/media/EMPpulse.341e9b6ea7b290ec2265.png",
     "static/media/bg-light.png": "/andrew-portfolio-v2/static/media/bg-light.bac0efb485244a522981.png",
-    "static/media/mock07.png": "/andrew-portfolio-v2/static/media/mock07.3f1110f482232b33c6a2.png",
-    "static/media/mock05.png": "/andrew-portfolio-v2/static/media/mock05.4faafa70d200d1519a34.png",
-    "static/media/mock06.png": "/andrew-portfolio-v2/static/media/mock06.ea816617e0d0fa0f63ca.png",
     "static/media/bg-dark.png": "/andrew-portfolio-v2/static/media/bg-dark.f420c6b8458af72de935.png",
-    "static/media/mock02.png": "/andrew-portfolio-v2/static/media/mock02.bced48ae9cdda3acf1a3.png",
-    "static/media/mock03.png": "/andrew-portfolio-v2/static/media/mock03.a4600719e0b5d2a3155b.png",
+    "static/media/quantumoscillator.png": "/andrew-portfolio-v2/static/media/quantumoscillator.b77cecfc2e8b1c04c21e.png",
+    "static/media/coinflip.png": "/andrew-portfolio-v2/static/media/coinflip.ef5f71d48bb8978c3c18.png",
     "index.html": "/andrew-portfolio-v2/index.html",
     "main.2a37b0d4.css.map": "/andrew-portfolio-v2/static/css/main.2a37b0d4.css.map",
-    "main.63dc3614.js.map": "/andrew-portfolio-v2/static/js/main.63dc3614.js.map",
+    "main.67ba431f.js.map": "/andrew-portfolio-v2/static/js/main.67ba431f.js.map",
     "453.b05d8aa5.chunk.js.map": "/andrew-portfolio-v2/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a37b0d4.css",
-    "static/js/main.63dc3614.js"
+    "static/js/main.67ba431f.js"
   ]
 }
