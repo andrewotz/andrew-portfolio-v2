@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.45abf069.css",
-    "main.js": "/static/js/main.9d829137.js",
+    "main.css": "/static/css/main.0cb0314d.css",
+    "main.js": "/static/js/main.d9a98b0f.js",
     "static/js/453.b05d8aa5.chunk.js": "/static/js/453.b05d8aa5.chunk.js",
     "static/media/electricpotential.png": "/static/media/electricpotential.d0cb262830be937f08d0.png",
     "static/media/CERNcollision.png": "/static/media/CERNcollision.4f4b4a7f75f119c06ff7.png",
@@ -12,12 +12,12 @@
     "static/media/quantumoscillator.png": "/static/media/quantumoscillator.b77cecfc2e8b1c04c21e.png",
     "static/media/coinflip.png": "/static/media/coinflip.ef5f71d48bb8978c3c18.png",
     "index.html": "/index.html",
-    "main.45abf069.css.map": "/static/css/main.45abf069.css.map",
-    "main.9d829137.js.map": "/static/js/main.9d829137.js.map",
+    "main.0cb0314d.css.map": "/static/css/main.0cb0314d.css.map",
+    "main.d9a98b0f.js.map": "/static/js/main.d9a98b0f.js.map",
     "453.b05d8aa5.chunk.js.map": "/static/js/453.b05d8aa5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45abf069.css",
-    "static/js/main.9d829137.js"
+    "static/css/main.0cb0314d.css",
+    "static/js/main.d9a98b0f.js"
   ]
 }
