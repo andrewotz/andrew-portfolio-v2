@@ -1,5 +1,5 @@
 import React from "react";
-import mock01 from '../assets/images/CERNparticlesim.png';
+import mock01 from '../assets/images/CERNcollision.png';
 import mock02 from '../assets/images/mock02.png';
 import mock03 from '../assets/images/mock03.png';
 import mock04 from '../assets/images/mock04.png';
@@ -17,7 +17,7 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://github.com/andrewotz/CERN-Particle-Simulator" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/andrewotz/CERN-Particle-Simulator" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/andrewotz/CERN-Particle-Simulator" target="_blank" rel="noreferrer"><h2>CERN Particle Simulator</h2></a>
                 <p>A particle collision simulator inspired by CERN experiments, showing particle trajectories and collision effects in real time.</p>
             </div>
