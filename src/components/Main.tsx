@@ -18,7 +18,7 @@ function Main() {
             <a href="https://www.linkedin.com/in/andrew-otzenberger-45a753319/" target="_blank" rel="noreferrer"><LinkedInIcon/></a>
           </div>
           <h1>Andrew Otzenberger</h1>
-          <p>CComputer Science (Information Systems) | Louisiana State University</p>
+          <p>Computer Science (Information Systems) | Louisiana State University</p>
 
           <div className="mobile_social_icons">
             <a href="https://github.com/andrewotz" target="_blank" rel="noreferrer"><GitHubIcon/></a>
