@@ -3,6 +3,11 @@ import ReactDOM from 'react-dom/client';
 import './index.scss';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import ReactGA from 'react-ga4';
+
+ReactGA.initialize('G-364699218');
+ReactGA.send({ hitType: 'pageview', page: window.location.pathname });
+
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
