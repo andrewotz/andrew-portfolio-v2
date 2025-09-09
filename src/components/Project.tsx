@@ -4,7 +4,7 @@ import mock02 from '../assets/images/electricpotential.png';
 import mock03 from '../assets/images/quantumoscillator.png';
 import mock04 from '../assets/images/coinflip.png';
 import mock05 from '../assets/images/EMPpulse.png';
-import mock06 from '../assets/images/mock06.png';
+import mock06 from '../assets/images/embeddedgraph.png';
 import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
 import mock09 from '../assets/images/mock09.png';
@@ -37,6 +37,11 @@ function Project() {
                 <a href="https://github.com/andrewotz/Cryptography-RNG-Comparison-Demo" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/andrewotz/Cryptography-RNG-Comparison-Demo" target="_blank" rel="noreferrer"><h2>Cryptography RNG Comparison Demo</h2></a>
                 <p>An interactive demo comparing the unpredictability and randomness quality of quantum versus classical random number generators using simulated coin flips.</p>
+            </div>
+            <div className="project">
+                <a href="https://github.com/andrewotz/Cryptography-RNG-Comparison-Demo" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://github.com/andrewotz/Cryptography-RNG-Comparison-Demo" target="_blank" rel="noreferrer"><h2>Graph Theory Research: Equitable Edge Colorings of K<sub>n</sub></h2></a>
+                <p> Investigated equitable (s, p) edge colorings of complete graphs. Designed algorithms to compute and visualize colorings, producing graphical (.png) and structured data (.txt) outputs.</p>
             </div>
             <div className="project">
                 <a href="https://github.com/andrewotz/EMP-Pulse-Circuit-Response-Simulator" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
