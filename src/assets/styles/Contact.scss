@@ -7,18 +7,6 @@
 .contact-form {
   padding-top: 20px;
 
-  // Material-UI input fix
-  .MuiInputBase-input {
-    color: #050f0b !important; // text color for typing
-    font-family: 'DomaineDispNar-Medium', sans-serif;
-    font-size: 1rem;
-  }
-  
-  .MuiInputBase-input:focus {
-    outline: none;
-    border-color: #5000ca; // highlight on focus
-  }
-
   button {
     float: right;
     background-color: white;

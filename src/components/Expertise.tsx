@@ -23,17 +23,14 @@ const labelsSecond = [
     "MySQL",
     "HTML5",
     "CSS3",
-    "Flask",
 ];
 
 const labelsThird = [
     "Qiskit",
-    "QuTip",
     "TensorFlow",
     "PyTorch",
     "Wolfram Mathematica",
     "Jupyter Notebook",
-    "Tableau",
     "Dartfish",
     "Linux",
 ];
